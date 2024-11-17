@@ -6,9 +6,13 @@ The main objective of this project is to use sensor data to classify human activ
 
 ### **Key Features**
 **Data Preprocessing:** Steps to clean and preprocess raw sensor data.
+
 **Feature Engineering:** Extraction and selection of features relevant to activity classification.
+
 **Model Training and Evaluation:** Training machine learning models and evaluating their performance.
+
 **Visualization:** Insights and visualizations to better understand the dataset and model results.
+
 
 ### **Repository Structure**
 human_activity_detection_using_sensors_Alaissa_Shaikh.ipynb: The main Jupyter Notebook containing the code, analysis, and results.
